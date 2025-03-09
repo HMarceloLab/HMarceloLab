@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HMarceloLab
-- 👀 I’m interested in Geology and Environmental Sciences.
-- 🌱 I’m currently learning Machine Learning for Data Analysis, and 3D Modelling.
+- 👀 I’m interested in Geology, GIS, and Environmental Sciences.
+- 🌱 I’m currently learning Machine Learning for Data Analysis and 3D Modelling.
 - 📫 You can reach me @ hansmarcelo21@gmail.com
 
 <!---
